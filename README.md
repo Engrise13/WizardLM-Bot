@@ -1,5 +1,5 @@
 # WizardLM Bot
-`Ollama` & `Telegram` bot integration using `13B WizardLM-Uncensored model` written in `python` language.
+`Ollama` & `Telegram` bot integration using `13B WizardLM-Uncensored model` written in `Python` language.
 
 ## Installation Guide
 1) Install Ollama and [wizardlm-uncensored](https://ollama.com/library/wizardlm-uncensored) AI model.
